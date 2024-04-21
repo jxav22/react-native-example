@@ -1,6 +1,12 @@
-# README
+# Overview
 
 This project is an example of a React Native application.
+
+- Routes and layouts<br>
+https://github.com/jxav22/react-native-example/tree/master/app
+
+- A component built with react-native<br>
+https://github.com/jxav22/react-native-example/blob/master/components/Sidebar.tsx
 
 ### Prerequisites
 Get Node.js installed on your machine. You can download and install it from [here](https://nodejs.org/en/download/current)
@@ -71,4 +77,3 @@ https://reactnative.dev/docs/platform
 
 It's also useful to know how to navigate between pages<br>
 https://docs.expo.dev/router/navigating-pages/
-
